@@ -19,7 +19,7 @@
 body {
     width: 100vw;
     height: auto;
-    background-image: linear-gradient(to top, var(--dove-gray-500), var(--dove-gray-800));
+    background-image: linear-gradient(to top, var(--dove-gray-950), var(--dove-gray-900));
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -35,7 +35,7 @@ h1{
     justify-content: space-between;
     padding-left: 25px;
     padding-right: 25px;
-    background-image: linear-gradient(to top, var(--dove-gray-300), var(--dove-gray-600));
+    background-image: linear-gradient(to top, var(--dove-gray-700), var(--dove-gray-800));
 }
 
 .logo img{
